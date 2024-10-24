@@ -14,7 +14,7 @@
   align-items: center;
   justify-content: center;
   position: relative;
-  background: url("this.jpg");
+  background: url("img/this.jpg");
   background-size: cover;
   background-position: center;
 }
